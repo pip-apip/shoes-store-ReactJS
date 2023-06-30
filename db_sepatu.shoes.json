@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "64973f3542dbadc680672f12"
+  },
+  "nama": "Nike Air Force 1 '07 FlyEase",
+  "kategori": "Sneakers",
+  "foto": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f8dfa191-60b3-44c1-b730-b25e0a908c35/air-force-1-07-flyease-shoes-LKXPhZ.png",
+  "harga": 1729000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649c64c019a60b042883315d"
+  },
+  "nama": "Nike Invincible 3",
+  "kategori": "Running",
+  "foto": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5ad342e8-cc72-46c4-8ea6-9df1e76eaeb2/invincible-3-road-running-shoes-Wwmmlp.png",
+  "harga": 2849000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649c64c319a60b042883315f"
+  },
+  "nama": "Nike Pegasus 40 SE",
+  "kategori": "Running",
+  "foto": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f379761e-96bb-4afa-8d6f-55ec3102f535/pegasus-40-se-road-running-shoes-1jMJKm.png",
+  "harga": 2099000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649c73040986c09232ce51cf"
+  },
+  "nama": "Nike Zegama",
+  "kategori": "Running",
+  "foto": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3129565d-096d-444b-9106-8fe8591e805e/zegama-trail-running-shoes-LhRsM7.png",
+  "harga": 2349000,
+  "__v": 0
+}]
